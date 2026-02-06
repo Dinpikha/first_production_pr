@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Growth App',
       theme: ThemeData(
-        useMaterial3: true, 
+        useMaterial3: true,
         colorSchemeSeed: Colors.blue, // Material 3 uses seeds for better color palettes
       ),
       initialRoute: Routes.welcome,
